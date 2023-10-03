@@ -14,11 +14,6 @@ Blindness detection is a critical application of machine learning and computer v
 The Blindness Detection system was trained on a diverse and labeled dataset of medical images related to eye diseases and conditions. The dataset includes images of retinas, fundus photographs, and other relevant eye images. Data collaboration with medical professionals and institutions ensured the dataset's quality and clinical relevance.
 
 
-## Demo
-
-Insert gif or link to demo
-
-
 
 ## Roadmap:-
 
@@ -48,36 +43,6 @@ Train the selected model on the training dataset. Fine-tune hyperparameters, adj
 
 **7. Model Evaluation:**
 Evaluate the trained model on the validation and test datasets using appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC AUC. Assess false positives and false negatives, as they have different clinical implications in blindness detection.
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Tech Stack
